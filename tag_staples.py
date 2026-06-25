@@ -5,8 +5,8 @@ import time
 # YuGiOh Staples Tagger — Python Script
 # ============================================
 
-API_KEY = "patniv0RRRddkos0B.5d09712d4ccf964c464c59eaef1efce09d7b6884192b067d7ea64259f335dbb3"
-BASE_ID = "appY9amPlFG4Fnt6W"
+API_KEY = "XXXXXXXXXXXXXXX"
+BASE_ID = "XXXXXXXXXXXXXXXX"
 CARDS_TABLE = "YuGiOh%20Cards"
 
 HEADERS = {
